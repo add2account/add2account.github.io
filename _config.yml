@@ -1,0 +1,11 @@
+# theme: jekyll-theme-minimal
+name: Add2
+company_name: Add2 Limited
+developer: Jahi Grant
+founder: Jahi Grant
+ceo: Jahi Grant
+title: The local pathway to your bank account
+description: Your pathway to Freedom; banking anywhere, anytime!
+site_path: https://add2account.github.io/
+include: ['_about_pages', '_javascript_projects']
+relative_permalinks: false
